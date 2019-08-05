@@ -47,6 +47,7 @@ ___
 * [Device specification: RedPhone-OS](https://github.com/ucnl/Docs/blob/master/EN/RedPhone/RedPhone-OS_specification_en.pdf)
 * [Device specification: RedPhone-D](https://github.com/ucnl/Docs/blob/master/EN/RedPhone/RedPhone-D_specification_en.pdf)  
 
+___
 ## RUS
 ### Навигационные системы и системы позиционирования
 #### Zima - Ультракороткобазисная навигационная система
