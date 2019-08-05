@@ -19,6 +19,12 @@
 * [Инструкция по эксплуатации системы RedWAVE](https://github.com/ucnl/Docs/blob/master/RU/RedWAVE/RedWAVE_LBL_Deployment_maintenance_RedNAV_ru.pdf)
 * [Пример трека, записанного системой RedWAVE (Google KML)](https://github.com/ucnl/Docs/blob/master/RU/RedWAVE/rednode_track_18042019.kml)
 
+#### VOSTOK - система привода водолазов
+* [Спецификация устройства: VOSTOK-ACS - акустический компас водолаза](https://github.com/ucnl/Docs/blob/master/RU/Vostok/Vostok-ACS_Specification_ru.pdf)
+* [Спецификация устройства: VOSTOK-BASE - приводной маяк](https://github.com/ucnl/Docs/blob/master/RU/Vostok/Vostok-BASE_Specification_ru.pdf)
+* [Инструкция по эксплуатации системы VOSTOK](https://github.com/ucnl/Docs/blob/master/RU/Vostok/Vostok_Users_Manual_ru.pdf)
+
+
 ### Гидроакустические модемы
 #### uWAVE - гидроакустический модем
 * [Спецификация устройства: гидроакустический модем uWAVE](https://github.com/ucnl/Docs/blob/master/RU/Modems/uWAVE/uWAVE_Specification_ru.pdf)
