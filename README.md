@@ -1,8 +1,7 @@
 # UCNL Documentation
 
-* [ENGLISH](ENG)
-* [РУССКИЙ](RUS)
-
+* [ENGLISH](#ENG)
+* [РУССКИЙ](#RUS)
 ___
 
 
