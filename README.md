@@ -14,6 +14,8 @@ ___
 * [Device 3D-model (STEP): Zima-Responder](https://github.com/ucnl/Docs/blob/master/EN/Zima/ZIMA_Responder_3D.step)
 * [Device wiring: Zima-Responder](https://github.com/ucnl/Docs/blob/master/EN/Zima/Zima-R_drawings_wiring.pdf)
 * [Zima USBL User's manual](https://github.com/ucnl/Docs/blob/master/EN/Zima/ZIMA_USBL_Deployment_maintenance_en.pdf)
+* [Host application](https://github.com/ucnl/ZimaHost2)
+* [Host application (BETA)](https://github.com/ucnl/ZHost)
 
 #### RedWAVE - Underwater GPS
 * [Device specification: RedBASE - GNSS-equipped sonobuoy](https://github.com/ucnl/Docs/blob/master/EN/RedWAVE/RedBase_Specification_en.pdf)
@@ -22,6 +24,8 @@ ___
 * [Communication protocol description: RedNODE](https://github.com/ucnl/Docs/blob/master/EN/RedWAVE/RedNODE_Protocol_specification.pdf)
 * [RedWAVE User's manual](https://github.com/ucnl/Docs/blob/master/EN/RedWAVE/RedWAVE_LBL_Deployment_maintenance_RedNAV_en.pdf)
 * [Demo track (Google KML)](https://github.com/ucnl/Docs/blob/master/RU/RedWAVE/rednode_track_18042019.kml)
+* [RedNODE demo application](https://github.com/ucnl/RedNodeHost)
+* [RedNAV host application](https://github.com/ucnl/RedNavHost)
 
 #### VOSTOK - diver's homing system
 * [Device specification: VOSTOK-ACS - diver's acoustic compass](https://github.com/ucnl/Docs/blob/master/EN/Vostok/Vostok-ACS_Specification_en.pdf)
@@ -33,9 +37,11 @@ ___
 * [Device specification: uWAVE](https://github.com/ucnl/Docs/blob/master/EN/Modems/uWAVE/uWAVE_Specification_en.pdf)
 * [Communication protocol specification: uWAVE](https://github.com/ucnl/Docs/blob/master/EN/Modems/uWAVE/uWAVE_Protocol_Specification_en.pdf)
 * [Device wiring diagram: uWAVE](https://github.com/ucnl/Docs/blob/master/EN/Modems/uWAVE/uWAVE_wiring_diagram_en.pdf)
+* [Demo host application](https://github.com/ucnl/uWAVE_Host)
 
 #### RedLINE -  underwater acoustic modem
 * [Device specification: RedLINE](https://github.com/ucnl/Docs/blob/master/EN/Modems/RedLINE/RedLINE_Specification_en.pdf)
+* [Demo host application](https://github.com/ucnl/RedLINE_Host)
 
 #### RedGTR -  underwater acoustic code modem
 * [Device specification: RedGTR](https://github.com/ucnl/Docs/blob/master/EN/Modems/RedGTR/RedGTR_Specification_en.pdf)
@@ -66,6 +72,8 @@ ___
 * [Описание протокола сопряжения с приемником RedNODE](https://github.com/ucnl/Docs/blob/master/RU/RedWAVE/RedNODE_Protocol_specification.pdf)
 * [Инструкция по эксплуатации системы RedWAVE](https://github.com/ucnl/Docs/blob/master/RU/RedWAVE/RedWAVE_LBL_Deployment_maintenance_RedNAV_ru.pdf)
 * [Пример трека, записанного системой RedWAVE (Google KML)](https://github.com/ucnl/Docs/blob/master/RU/RedWAVE/rednode_track_18042019.kml)
+* [Демо-приложение для работы с RedNODE](https://github.com/ucnl/RedNodeHost)
+* [Приложение для работы с RedNAV](https://github.com/ucnl/RedNavHost)
 
 #### VOSTOK - система привода водолазов
 * [Спецификация устройства: VOSTOK-ACS - акустический компас водолаза](https://github.com/ucnl/Docs/blob/master/RU/Vostok/Vostok-ACS_Specification_ru.pdf)
@@ -77,11 +85,13 @@ ___
 #### uWAVE - гидроакустический модем
 * [Спецификация устройства: гидроакустический модем uWAVE](https://github.com/ucnl/Docs/blob/master/RU/Modems/uWAVE/uWAVE_Specification_ru.pdf)
 * [Описание протокола сопряжения: гидроакустический модем uWAVE](https://github.com/ucnl/Docs/blob/master/RU/Modems/uWAVE/uWAVE_Protocol_Specification_ru.pdf)
+* [Демонстрационное приложение для работы с модемами uWAVE](https://github.com/ucnl/uWAVE_Host)
 
 #### RedLINE - гидроакустический модем
 * [Спецификация устройства: гидроакустический модем RedLINE](https://github.com/ucnl/Docs/blob/master/RU/Modems/RedLINE/RedLINE_Specification_ru.pdf)
 * [Описание протокола сопряжения: гидроакустический модем RedLINE](https://github.com/ucnl/Docs/blob/master/RU/Modems/RedLINE/RedLINE_Protocol_Specification_ru.pdf)
 * [Габаритный чертеж устройства: гидроакустический модем RedLINE](https://github.com/ucnl/Docs/blob/master/RU/Modems/RedLINE/RedLINE_drawings_ru.png)
+* [Демонстрационное приложение для работы с модемами RedLINE](https://github.com/ucnl/RedLINE_Host)
 
 #### RedGTR - гидроакустический кодовый модем
 * [Спецификация устройства: гидроакустический модем RedGTR](https://github.com/ucnl/Docs/blob/master/RU/Modems/RedGTR/RedGTR_Specification_ru.pdf)
