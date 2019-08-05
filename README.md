@@ -40,6 +40,14 @@
 * [Описание протокола сопряжения: гидроакустический модем RedGTR](https://github.com/ucnl/Docs/blob/master/RU/Modems/RedGTR/RedGTR_Protocol_Specification_ru.pdf)
 * [Габаритный чертеж устройства: гидроакустический модем RedGTR](https://github.com/ucnl/Docs/blob/master/RU/Modems/RedGTR/RedGTR_drawings_ru.png)
 
+### Системы беспроводной голосовой связи
+#### RedPhone - водолазная беспроводная телефония
+* [Спецификация устройства: RedPhone-OS - надводная станция связи](https://github.com/ucnl/Docs/blob/master/RU/RedPhone/RedPhone-OS_Specification_ru.pdf)
+* [Спецификация устройства: RedPhone - водолазная станция связи](https://github.com/ucnl/Docs/blob/master/RU/RedPhone/RedPhone_Specification_ru.pdf)
+
+### Гидроакустические антенны
+#### Приемопередающая антенна RT-1.524525-1
+* [Спецификация устройства: RT-1.524525-1 - гидроакустическая приемопередающая антенна](https://github.com/ucnl/Docs/blob/master/RU/Antennas/RT-1.524525-1/RT-1.524525-1_Specification_ru.pdf)
 
 
 
