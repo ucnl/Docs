@@ -1,10 +1,9 @@
 # UCNL Documentation
 
-* [ENGLISH](#ENG)
-* [РУССКИЙ](#RUS)
+* [ENGLISH (ENG)](#ENG)
+* [РУССКИЙ (RUS)](#RUS)
 ___
-
-
+      
 ## ENG
 ### Navigation & tracking system
 #### Zima - Ultrashort baseline (USBL) system
