@@ -5,7 +5,7 @@
 ___
       
 ## ENG
-### Navigation & tracking system
+### Navigation & tracking systems
 #### Zima - Ultrashort baseline (USBL) system
 * [Data brief](https://github.com/ucnl/Docs/blob/master/EN/Zima/Zima_DataBrief_en.pdf)
 * [Device specification: Zima-Base - direction finding antenna](https://github.com/ucnl/Docs/blob/master/EN/Zima/ZimaBase_Specification_en.pdf)
@@ -17,7 +17,7 @@ ___
 * [Host application](https://github.com/ucnl/ZimaHost2)
 * [Host application (BETA)](https://github.com/ucnl/ZHost)
 
-#### RedWAVE - Underwater GPS
+#### RedWAVE - Underwater GPS (LBL)
 * [Device specification: RedBASE - GNSS-equipped sonobuoy](https://github.com/ucnl/Docs/blob/master/EN/RedWAVE/RedBase_Specification_en.pdf)
 * [Device specification: RedNODE - navigation receiver for ROVs and AUVs](https://github.com/ucnl/Docs/blob/master/EN/RedWAVE/RedNODE_Specification_en.pdf)
 * [Device specification: RedNAV - navigation receiver for divers](https://github.com/ucnl/Docs/blob/master/EN/RedWAVE/RedNAV_Specification_en.pdf)
