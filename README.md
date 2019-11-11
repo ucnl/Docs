@@ -66,6 +66,7 @@ ___
 * [Спецификация устройства: Zima-Responder (OEM)](https://github.com/ucnl/Docs/blob/master/RU/Zima/ZIMA_R1000_OEM_Specification_ru.pdf)
 * [Инструкция по эксплуатации системы Zima](https://github.com/ucnl/Docs/blob/master/RU/Zima/ZIMA_Users_manual_ru.pdf)
 * [Описание протокола сопряжения](https://github.com/ucnl/Docs/blob/master/RU/Zima/ZIMA_Protocol_Specification.pdf)
+* [Спецификация устройтсва: Bat&Link Box - блок питания и коммутации](https://github.com/ucnl/Docs/blob/master/RU/Zima/BAT_n_LINK_BOX_Specification_ru.pdf)
 
 #### RedWAVE - подводный GPS
 * [Спецификация устройства: RedBASE - навигационный буй](https://github.com/ucnl/Docs/blob/master/RU/RedWAVE/RedBASE_Specification_ru.pdf)
