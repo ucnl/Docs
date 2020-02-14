@@ -54,6 +54,9 @@ ___
 * [Device specification: RedPhone-OS](https://github.com/ucnl/Docs/blob/master/EN/RedPhone/RedPhone-OS_specification_en.pdf)
 * [Device specification: RedPhone-D](https://github.com/ucnl/Docs/blob/master/EN/RedPhone/RedPhone-D_specification_en.pdf)  
 
+### Underwater acoustic antennas and hydrophones
+* [Underwater acoustic antennas](https://github.com/ucnl/Docs/tree/master/EN/Antennas)
+
 ___
 ## RUS
 ### Навигационные системы и системы позиционирования
@@ -106,8 +109,6 @@ ___
 * [Спецификация устройства: RedPhone-OS - надводная станция связи](https://github.com/ucnl/Docs/blob/master/RU/RedPhone/RedPhone-OS_Specification_ru.pdf)
 * [Спецификация устройства: RedPhone - водолазная станция связи](https://github.com/ucnl/Docs/blob/master/RU/RedPhone/RedPhone_Specification_ru.pdf)
 
-### Гидроакустические антенны
-#### Приемопередающая антенна RT-1.524525-1
-* [Спецификация устройства: RT-1.524525-1 - гидроакустическая приемопередающая антенна](https://github.com/ucnl/Docs/blob/master/RU/Antennas/RT-1.524525-1/RT-1.524525-1_Specification_ru.pdf)    
-
+### Гидроакустические антенны и гидрофоны
+* [Обратимые гидроакустические антенны](https://github.com/ucnl/Docs/tree/master/RU/Antennas)
 
