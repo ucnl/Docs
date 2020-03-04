@@ -17,5 +17,4 @@
 #### RedGTR -  underwater acoustic code modem
 * [Device specification: RedGTR](https://ucnl.github.io/Docs/EN/Modems/RedGTR/RedGTR_Specification_en.pdf)
 
-
-[Home](https://ucnl.github.io/Docs/readme.md)
+# [Home](README.md)

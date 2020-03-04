@@ -27,4 +27,4 @@
 * [Device specification: VOSTOK-ACS - diver's acoustic compass](https://ucnl.github.io/Docs/EN/Vostok/Vostok-ACS_Specification_en.pdf)
 * [Device specification: VOSTOK-BASE - homing beacon](https://ucnl.github.io/Docs/EN/Vostok/Vostok-BASE_Specification_en.pdf)
 
-[Home](https://ucnl.github.io/Docs/readme.md)
+# [Home](README.md)

@@ -7,4 +7,4 @@
 * [Device specification: RedPhone-OS](https://ucnl.github.io/Docs/EN/RedPhone/RedPhone-OS_specification_en.pdf)
 * [Device specification: RedPhone-D](https://ucnl.github.io/Docs/EN/RedPhone/RedPhone-D_specification_en.pdf)  
 
-[Home](https://ucnl.github.io/Docs/readme.md)
+# [Home](README.md)

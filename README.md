@@ -2,7 +2,7 @@
 
 # Underwater communication & navigation laboratory
 
-# [ENGLISH](README.md) | [RUSSIAN](README_RU.md)
+# [ENGLISH](README.md) | [РУССКИЙ](README_RU.md)
 
 # Documentation
 * [Navigation & tracking systems](navigation_and_tracking_systems_en.md)
@@ -10,4 +10,4 @@
 * [Underwater Wireless voice systems (Underwater telephone)](underwater_wireless_voice_systems_en.md)
 * [Underwater acoustic antennas](underwater_acoustic_antennas_en.md)
 
-[Home](README.md)
+# [Home](README.md)
