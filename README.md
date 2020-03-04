@@ -4,6 +4,7 @@
 
 * [ENGLISH (ENG)](#ENG)
 * [РУССКИЙ (RUS)](#RUS)
+  
 ___
       
 ## ENG
@@ -38,6 +39,7 @@ ___
 #### uWAVE - underwater acoustic modem
 * [Device specification: uWAVE](https://github.com/ucnl/Docs/blob/master/EN/Modems/uWAVE/uWAVE_Specification_en.pdf)
 * [Communication protocol specification: uWAVE](https://github.com/ucnl/Docs/blob/master/EN/Modems/uWAVE/uWAVE_Protocol_Specification_en.pdf)
+* [Communication protocol specification: uWAVE](https://ucnl.github.io/Docs/EN/Modems/uWAVE/uWAVE_Protocol_Specification_en.pdf)
 * [Device wiring diagram: uWAVE](https://github.com/ucnl/Docs/blob/master/EN/Modems/uWAVE/uWAVE_wiring_diagram_en.pdf)
 * [Demo host application](https://github.com/ucnl/uWAVE_Host)
 
