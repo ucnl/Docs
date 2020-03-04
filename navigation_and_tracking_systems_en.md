@@ -5,12 +5,12 @@
 ### Navigation & tracking systems
 #### Zima - Ultrashort baseline (USBL) system
 * [Data brief](https://ucnl.github.io/Docs/EN/Zima/Zima_DataBrief_en.pdf)
+* [Zima USBL User's manual](https://ucnl.github.io/Docs/EN/Zima/ZIMA_USBL_Deployment_maintenance_en.pdf)
 * [Device specification: Zima-Base - direction finding antenna](https://ucnl.github.io/Docs/EN/Zima/ZimaBase_Specification_en.pdf)
-* [Device 3D-model (STEP): Zima-Base](https://ucnl.github.io/Docs/EN/Zima/Zima_Base_3D.step)
 * [Device specification: Zima-Responder](https://ucnl.github.io/Docs/EN/Zima/Zima-R_Specification_en.pdf)
+* [Device 3D-model (STEP): Zima-Base](https://ucnl.github.io/Docs/EN/Zima/Zima_Base_3D.step)
 * [Device 3D-model (STEP): Zima-Responder](https://ucnl.github.io/Docs/EN/Zima/ZIMA_Responder_3D.step)
 * [Device wiring: Zima-Responder](https://ucnl.github.io/Docs/EN/Zima/Zima-R_drawings_wiring.pdf)
-* [Zima USBL User's manual](https://ucnl.github.io/Docs/EN/Zima/ZIMA_USBL_Deployment_maintenance_en.pdf)
 * [Host application](https://github.com/ucnl/ZHost)
 
 #### RedWAVE - Underwater GPS (LBL)
