@@ -40,6 +40,7 @@ ___
 * [Communication protocol specification: uWAVE](https://ucnl.github.io/Docs/EN/Modems/uWAVE/uWAVE_Protocol_Specification_en.pdf)
 * [Device wiring diagram: uWAVE](https://ucnl.github.io/Docs/EN/Modems/uWAVE/uWAVE_wiring_diagram_en.pdf)
 * [Demo host application](https://github.com/ucnl/uWAVE_Host)
+* [Examples for Arduino]:(https://github.com/ucnl/uWAVE_Arduino)
 
 #### RedLINE -  underwater acoustic modem
 * [Device specification: RedLINE](https://ucnl.github.io/Docs/EN/Modems/RedLINE/RedLINE_Specification_en.pdf)
@@ -55,7 +56,9 @@ ___
 * [Device specification: RedPhone-D](https://ucnl.github.io/Docs/EN/RedPhone/RedPhone-D_specification_en.pdf)  
 
 ### Underwater acoustic antennas and hydrophones
-* [Underwater acoustic antennas](https://github.com/ucnl/Docs/tree/master/EN/Antennas)
+* [Transducer RT-2.332820-1](https://ucnl.github.io/Docs/EN/Antennas/RT-2.332820-1_specification_en.pdf)
+* [Transducer RT-1.524525-1-FF](https://ucnl.github.io/Docs/EN/Antennas/RT-1.524525-1-FF_specification_en.pdf)
+* [Transducer RT-1.524525-1](https://ucnl.github.io/Docs/EN/Antennas/RT-1.524525-1_specification_en.pdf)
 
 ___
 ## RUS
@@ -92,6 +95,7 @@ ___
 * [Спецификация устройства: гидроакустический модем uWAVE](https://ucnl.github.io/Docs/RU/Modems/uWAVE/uWAVE_Specification_ru.pdf)
 * [Описание протокола сопряжения: гидроакустический модем uWAVE](https://ucnl.github.io/Docs/RU/Modems/uWAVE/uWAVE_Protocol_Specification_ru.pdf)
 * [Демонстрационное приложение для работы с модемами uWAVE](https://github.com/ucnl/uWAVE_Host)
+* [Примеры скетчей для Arduino]:(https://github.com/ucnl/uWAVE_Arduino)
 
 #### RedLINE - гидроакустический модем
 * [Спецификация устройства: гидроакустический модем RedLINE](https://ucnl.github.io/Docs/RU/Modems/RedLINE/RedLINE_Specification_ru.pdf)
@@ -110,5 +114,7 @@ ___
 * [Спецификация устройства: RedPhone - водолазная станция связи](https://ucnl.github.io/Docs/RU/RedPhone/RedPhone_Specification_ru.pdf)
 
 ### Гидроакустические антенны и гидрофоны
-* [Обратимые гидроакустические антенны](https://github.com/ucnl/Docs/tree/master/RU/Antennas)
+* [Обратимая антенна RT-2.332820-1](https://ucnl.github.io/Docs/RU/Antennas/RT-2.332820-1_specification_ru.pdf)
+* [Обратимая антенна RT-1.524525-1-FF](https://ucnl.github.io/Docs/RU/Antennas/RT-1.524525-1-FF_specification_ru.pdf)
+* [Обратимая антенна RT-1.524525-1](https://ucnl.github.io/Docs/RU/Antennas/RT-1.524525-1_specification_ru.pdf)
 
