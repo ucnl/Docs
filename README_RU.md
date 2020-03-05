@@ -11,6 +11,7 @@
 * [Гидроакустические преобразователи и гидрофоны](underwater_acoustic_antennas_ru.md)
 
 # Наши образовательные проекты
+* [Online утилиты: Расчет глубины, скорости звука, работа с NMEA0183 etc.](online_utilities_ru.md)
 * [UCNLNav - Библиотека для решения геодезических и навигационных задач (C#/Rust/Matlab/GNU Octave)](https://github.com/ucnl/UCNLNav)
 * [UCNLPhysics - Библиотека для определения фундаментальных свойств морской воды (C#/Rust/C/Matlab/GNU Octave/JavaScript)](https://github.com/ucnl/UCNLPhysics)
 * [uMCPIno - протокол с гарантированной доставкой и очередностью сообщений (C#/C/Arduino)](https://github.com/AlekUnderwater/uMCPIno)

@@ -11,6 +11,7 @@
 * [Underwater acoustic antennas](underwater_acoustic_antennas_en.md)
 
 # Our educational projects
+* [Online utilities: Depth, Speed of sound, NMEA0183 etc.](online_utilities_en.md)
 * [UCNLNav - a library for solving geodetic and navigation problems (C#/Rust/Matlab/GNU Octave)](https://github.com/ucnl/UCNLNav)
 * [UCNLPhysics - a library for estimation of fundamental properties of seawater (C#/Rust/C/Matlab/GNU Octave/JavaScript)](https://github.com/ucnl/UCNLPhysics)
 * [uMCPIno - a lightweight communication protocol with guaranteed delivery (C#/C/Arduino)](https://github.com/AlekUnderwater/uMCPIno)
