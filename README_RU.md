@@ -2,7 +2,7 @@
 
 # Underwater communication & navigation laboratory
 
-# [РУССКИЙ](README_RU.md) | [ENGLISH](README.md)
+### [РУССКИЙ](README_RU.md) | [ENGLISH](README.md)
 
 # Документация
 * [Гидроакустические навигационные и трекинговые системы](navigation_and_tracking_systems_ru.md)
