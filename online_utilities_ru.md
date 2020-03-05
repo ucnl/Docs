@@ -11,7 +11,7 @@
 * [Online база данных солености мирового океана (under construction)](https://ucnl.github.io/Docs/)
 
 #### Online утилиты для протокола NMEA0183
-* [Online NMEA0183 парсер/билдер](https://ucnl.github.io/Docs/)
-* [Online NMEA0183 калькулятор контрольной суммы](https://ucnl.github.io/Docs/)
+* [Online NMEA0183 парсер/билдер (under construction)](https://ucnl.github.io/Docs/)
+* [Online NMEA0183 калькулятор контрольной суммы (under construction)](https://ucnl.github.io/Docs/)
 
 # [Home](README.md)

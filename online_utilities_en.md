@@ -11,7 +11,7 @@
 * [Online world ocean salinity database (under construction)](https://ucnl.github.io/Docs/)
 
 #### Online NMEA0183 utilities
-* [Online NMEA0183 sentences parser/builder](https://ucnl.github.io/Docs/)
-* [Online NMEA0183 checksum calculator](https://ucnl.github.io/Docs/)
+* [Online NMEA0183 sentences parser/builder (under construction)](https://ucnl.github.io/Docs/)
+* [Online NMEA0183 checksum calculator (under construction)](https://ucnl.github.io/Docs/)
 
 # [Home](README.md)
