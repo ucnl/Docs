@@ -7,8 +7,8 @@
 # Документация
 * [Гидроакустические навигационные и трекинговые системы](navigation_and_tracking_systems_ru.md)
 * [Гидроакустические модемы](underwater_acoustic_modems_ru.md)
-* [Underwater Wireless voice systems (Underwater telephone)](underwater_wireless_voice_systems_ru.md)
-* [Underwater acoustic antennas](underwater_acoustic_antennas_ru.md)
+* [Беспроводная голосовая подводная связь (подводная телефония)](underwater_wireless_voice_systems_ru.md)
+* [Гидроакустические преобразователи и гидрофоны](underwater_acoustic_antennas_ru.md)
 
 # Наши образовательные проекты
 * [UCNLNav - Библиотека для решения геодезических и навигационных задач (C#/Rust/Matlab/GNU Octave)](https://github.com/ucnl/UCNLNav)
