@@ -16,5 +16,6 @@
 * [UCNLPhysics - a library for estimation of fundamental properties of seawater (C#/Rust/C/Matlab/GNU Octave/JavaScript)](https://github.com/ucnl/UCNLPhysics)
 * [uMCPIno - a lightweight communication protocol with guaranteed delivery (C#/C/Arduino)](https://github.com/AlekUnderwater/uMCPIno)
 * [UCNLNMEA - a library for parsing/building NMEA sentences](https://github.com/ucnl/UCNLNMEA)
+* [Glossary (under construction)](README.md)
 
 # [Home](README.md)
