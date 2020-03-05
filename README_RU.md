@@ -12,8 +12,8 @@
 
 # Наши образовательные проекты
 * [UCNLNav - Библиотека для решения геодезических и навигационных задач (C#/Rust/Matlab/GNU Octave)](https://github.com/ucnl/UCNLNav)
-* [UNCLPhysics - Библиотека для определения фундаментальных свойств морской воды (C#/Rust/C/Matlab/GNU Octave/JavaScript)](https://github.com/ucnl/UCNLPhysics)
+* [UCNLPhysics - Библиотека для определения фундаментальных свойств морской воды (C#/Rust/C/Matlab/GNU Octave/JavaScript)](https://github.com/ucnl/UCNLPhysics)
 * [uMCPIno - протокол с гарантированной доставкой и очередностью сообщений (C#/C/Arduino)](https://github.com/AlekUnderwater/uMCPIno)
-* [UNCLNMEA - библиотека для парсигна и формирования NMEA-сообщений](https://github.com/ucnl/UCNLNMEA)
+* [UCNLNMEA - библиотека для парсигна и формирования NMEA-сообщений](https://github.com/ucnl/UCNLNMEA)
 
 # [Домой](README_RU.md)

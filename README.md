@@ -12,8 +12,8 @@
 
 # Our educational projects
 * [UCNLNav - a library for solving geodetic and navigation problems (C#/Rust/Matlab/GNU Octave)](https://github.com/ucnl/UCNLNav)
-* [UNCLPhysics - a library for estimation of fundamental properties of seawater (C#/Rust/C/Matlab/GNU Octave/JavaScript)](https://github.com/ucnl/UCNLPhysics)
+* [UCNLPhysics - a library for estimation of fundamental properties of seawater (C#/Rust/C/Matlab/GNU Octave/JavaScript)](https://github.com/ucnl/UCNLPhysics)
 * [uMCPIno - a lightweight communication protocol with guaranteed delivery (C#/C/Arduino)](https://github.com/AlekUnderwater/uMCPIno)
-* [UNCLNMEA - a library for parsing/building NMEA sentences](https://github.com/ucnl/UCNLNMEA)
+* [UCNLNMEA - a library for parsing/building NMEA sentences](https://github.com/ucnl/UCNLNMEA)
 
 # [Home](README.md)
