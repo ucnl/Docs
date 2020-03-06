@@ -12,6 +12,6 @@
 
 #### Online NMEA0183 utilities
 * [Online NMEA0183 sentences parser/builder (under construction)](https://ucnl.github.io/Docs/)
-* [Online NMEA0183 checksum calculator (under construction)](https://ucnl.github.io/Docs/)
+* [Online NMEA0183 checksum calculator](https://alekunderwater.github.io/proper_depth_calculator.html)
 
 # [Home](README.md)
