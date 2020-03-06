@@ -4,7 +4,7 @@
 
 ### Online утилиты
 #### Толковые калькуляторы свойств воды
-* [Толковый калькулятор глубины (under construction)](https://ucnl.github.io/Docs/)
+* [Толковый калькулятор глубины (Beta)](https://alekunderwater.github.io/proper_depth_calculator.html)
 * [Толковый калькулятор скорости звука (under construction)](https://ucnl.github.io/Docs/)
 * [Толковый калькулятор вертикального пути звука по слоистой среде (under construction)](https://ucnl.github.io/Docs/)
 * [Калькулятор точки замерзания морской воды (under construction)](https://ucnl.github.io/Docs/)
