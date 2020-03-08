@@ -7,7 +7,7 @@
 * [Толковый калькулятор глубины (Beta)](https://alekunderwater.github.io/proper_depth_calculator.html)
 * [Толковый калькулятор скорости звука (under construction)](https://ucnl.github.io/Docs/)
 * [Толковый калькулятор вертикального пути звука по слоистой среде (under construction)](https://ucnl.github.io/Docs/)
-* [Калькулятор точки замерзания морской воды (under construction)](https://ucnl.github.io/Docs/)
+* [Калькулятор точки замерзания морской воды](https://alekunderwater.github.io/seawater_freezing_point_calculator.html)
 * [Online база данных солености мирового океана (under construction)](https://ucnl.github.io/Docs/)
 
 #### Online утилиты для протокола NMEA0183
