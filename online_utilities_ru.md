@@ -11,7 +11,7 @@
 
 #### Гидроакустическая связь
 * [Толковый калькулятор вертикального пути звука по слоистой среде](https://alekunderwater.github.io/proper_vsound_distance_calculator.html)
-* [Простая оценка дальности связи по чувствительности передатчика и приемника](https://ucnl.github.io/Docs/)
+* [Простая оценка дальности связи по чувствительности передатчика и затуханию](https://alekunderwater.github.io/simple_prop_distance_estimation.html)
 
 #### Online утилиты для протокола NMEA0183
 * [Online NMEA0183 калькулятор контрольной суммы](https://alekunderwater.github.io/nmea0183_checksum_calculator.html)
