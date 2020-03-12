@@ -11,7 +11,7 @@
 
 #### Underwater acoustic communication
 * [Proper vertical sound path calculator](https://alekunderwater.github.io/proper_vsound_distance_calculator.html)
-* [Simple propagation distance estimation by tx and rx sensitivities](https://ucnl.github.io/Docs/)
+* [Simple propagation distance estimation by tx sensitivity and sound absorption](https://alekunderwater.github.io/simple_prop_distance_estimation.html)
 
 #### Online NMEA0183 utilities
 * [Online NMEA0183 checksum calculator](https://alekunderwater.github.io/nmea0183_checksum_calculator.html)
