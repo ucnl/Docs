@@ -12,7 +12,7 @@
 * [Device 3D-model (STEP): Zima-Responder](https://ucnl.github.io/Docs/EN/Zima/ZIMA_Responder_3D.step)
 * [Device wiring: Zima-Responder](https://ucnl.github.io/Docs/EN/Zima/Zima-R_drawings_wiring.pdf)
 * [Host application (Repository)](https://github.com/ucnl/ZHost)
-* [Host application (Download release)](https://github.com/ucnl/ZHost/releases/download/1.1/ZHost.zip)
+* [Host application (Download release)](https://github.com/ucnl/ZHost/releases/download/1.2/ZHost.zip)
 
 #### RedWAVE - Underwater GPS (LBL)
 * [Device specification: RedBASE - GNSS-equipped sonobuoy](https://ucnl.github.io/Docs/EN/RedWAVE/RedBase_Specification_en.pdf)
