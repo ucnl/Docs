@@ -14,7 +14,7 @@
 * [3D-модель устройства (STEP): Zima-Responder](https://ucnl.github.io/Docs/RU/Zima/ZIMA_Responder_3D.step)
 * [Схема включения устройства: Zima-Responder](https://ucnl.github.io/Docs/EN/Zima/Zima-R_drawings_wiring.pdf)
 * [Пультовое приложение (Репозиторий)](https://github.com/ucnl/ZHost)
-* [Пультовое приложение (Скачать релиз)](https://github.com/ucnl/ZHost/releases/download/1.1/ZHost.zip)
+* [Пультовое приложение (Скачать релиз)](https://github.com/ucnl/ZHost/releases/download/1.2/ZHost.zip)
 
 ## RedWAVE - Подводный GPS (LBL)
 * [Спецификация устройства: RedBASE - Буй-ретранслятор](https://ucnl.github.io/Docs/RU/RedWAVE/RedBASE_Specification_ru.pdf)
