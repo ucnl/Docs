@@ -4,8 +4,7 @@
 
 ### Products documentation
 
-## [English](https://ucnl.github.io/)
-## [Русский](https://ucnl.github.io/README_RU.html)
+## [English](https://ucnl.github.io/) | [Русский](https://ucnl.github.io/README_RU.html)
 
 # [Home](https://ucnl.github.io/)
 
