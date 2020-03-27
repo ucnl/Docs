@@ -2,7 +2,10 @@
 
 # Underwater communication & navigation laboratory  
 
-## [Products documentation (English)](https://ucnl.github.io/) 
-## [Документация по продуктам (Русский)](https://ucnl.github.io/README_RU.html)
+### Products documentation
+
+## [English](https://ucnl.github.io/)
+## [Русский](https://ucnl.github.io/README_RU.html)
 
 # [Home](https://ucnl.github.io/)
+
