@@ -1,3 +1,3 @@
-## This item is discontinued
+## Устройство снято с производства
 
 Natrix underwater acoustic modem documentation
